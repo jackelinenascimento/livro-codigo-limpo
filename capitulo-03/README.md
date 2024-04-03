@@ -16,6 +16,4 @@ Neste capítulo, o autor aborda as boas práticas relacionadas às funções no 
 
 7. **Manter as funções coesas, com responsabilidades bem definidas**: Funções devem ter uma única responsabilidade e realizar apenas uma tarefa específica. Funções coesas são mais fáceis de entender, testar e manter.
 
-8. **Escrever testes para as funções, que sejam simples, rápidos e cubram todos os casos de uso**: É fundamental escrever testes para as funções, garantindo que elas funcionem corretamente em diferentes cenários. Os testes devem ser simples, rápidos e abranger todos os casos de uso possíveis.
-
 Essas são algumas das principais diretrizes apresentadas no capítulo 3 do livro "Código Limpo" para escrever funções de qualidade e manter um código limpo e organizado.
