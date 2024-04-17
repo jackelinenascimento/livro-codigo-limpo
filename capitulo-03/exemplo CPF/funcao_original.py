@@ -19,6 +19,7 @@
 
 def validar_cpf(cpf):
     cpf = cpf.replace(".", "").replace("-", "")  # Remover pontos e traços
+    
     if len(cpf) != 11 or not cpf.isdigit():
         print("CPF inválido")
         return False
